@@ -1,0 +1,10 @@
+Environment Setup
+
+- Install Code Editor
+  - Sublime Text
+  - Notepad++
+  - CodeBlock
+  - Visual Studio Code
+
+- Install Python
+  $ sudo apt install python
