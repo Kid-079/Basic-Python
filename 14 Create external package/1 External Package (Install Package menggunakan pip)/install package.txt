@@ -1,0 +1,5 @@
+Install Numpy
+$ pip3 install numpy
+
+Uninstall Numpy
+$ pip3 uninstall numpy
