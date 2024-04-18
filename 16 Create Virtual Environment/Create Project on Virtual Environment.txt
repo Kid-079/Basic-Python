@@ -1,0 +1,17 @@
+Create Code on Virtual Environment
+- main.py
+
+Migrasi Dependency from newProject to project1
+$ source newProject/bin/activate
+(newProject) $ pip3 install django
+(newProject) $ pip3 freeze --local > requirement.txt
+(newProject) $ deactivate
+
+Check Locate folder
+$ pwd
+
+Copy requirement.txt from newProject to project1
+$ cp requirement.txt /home/user/Code/Python/2VirtualEnvironment/project1
+
+$ source project1/bin/activate
+(project1) $ pip3 install -r requirement.txt  (akan menginstall package sesuai package yang berada dalam requirement.txt)

@@ -1,0 +1,48 @@
+Install Virtual Environment
+$ sudo apt install python3.8-venv
+
+### 1 Create Virtual Environment and Login with LINUX
+Create Virtual Environment
+$ python3 -m venv project1
+
+Check locate folder Python
+$ which python
+
+Login to Virtual Environment
+$ source project1/bin/activate
+
+Check package 
+$ pip3 list --format=columns
+
+Check locate folder 
+(project1) $ which python
+(project1) $ pip3 list
+(project1) $ pip3 list --format=columns
+
+Install Package
+(project1) $ pip3 install numpy
+
+Logout from Virtual Environment
+(project1) ubuntu@user$ deactivate
+
+
+
+
+### 2 Create Virtual Environment and Login with Windows
+Create Virtual Environment
+C:\Home\User\Python\Environment> python -m venv project1
+
+Login to Virtual Environment
+C:\Home\User\Python\Environment>project\Scripts\activate.bat
+C:\Home\User\Python\Environment> pip list --format=columns
+
+Check package 
+(project1) C:\Home\User\Python\Environment> pip list
+(project1) C:\Home\User\Python\Environment> pip list --format=columns
+
+Install Package
+(project1) C:\Home\User\Python\Environment> pip install numpy
+
+Logout from Virtual Environment
+(project1) C:\Home\User\Python\Environment> deactivate
+
