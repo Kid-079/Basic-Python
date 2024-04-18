@@ -12,4 +12,4 @@ button = tkinter.Button(main_window, text="press button", command= press_button)
 label.pack()
 button.pack()
 
-main_window.mainloops()
+main_window.mainloop()
