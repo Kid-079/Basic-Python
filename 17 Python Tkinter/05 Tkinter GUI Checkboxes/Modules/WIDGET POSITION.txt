@@ -1,0 +1,11 @@
+ANCHOR (WIDGET POSITION)
+
+- N (North)
+- S (South)
+- E (East)
+- W (West)
+- NE (North East)
+- SW (South West)
+- NW (North West)
+- SE (South East)
+- CENTER
