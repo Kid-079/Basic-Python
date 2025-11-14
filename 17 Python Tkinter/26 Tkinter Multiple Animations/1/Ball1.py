@@ -1,0 +1,13 @@
+class Ball:
+    
+    def __int__(self,canvas,x,y,diameter,xVelocity,yVelocity,color):
+        self.canvas = canvas
+        self.image = canvas.create_oval(x,y,diameter,diameter,fill=color)
+        self.xVelocity = xVelocity
+        self.yVelocity = yVelocity
+    
+    def move(self):
+        coordinates = self.canvas.coords(self.image)
+        print(coordinates)
+        
+        self.canvas.move(self.image,self.xVelocity,self.yVelocity)
