@@ -1,4 +1,5 @@
 print ("Good Morning")
+print ("Do Small Things Greatly")
 
 print (1 + 1)	
 print ("\n")
