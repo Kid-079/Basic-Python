@@ -1,7 +1,7 @@
 # Logic Operator List and String
 
 Data = ["A", "B", "C", "D", "E"]
-letter = "C"
+letter = "Z"
 
 if letter in Data:
 	print('letter', letter, 'Identified"')
