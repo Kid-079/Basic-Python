@@ -1,6 +1,6 @@
 # List in Python = Array in another Program
 
-Array = [10,20,30,40,50,60,70]
+Array = [10,20,30,40,50,60,70,80,90,100]
 
 # Access List Specific Indeks
 Data1 = Array[0]
