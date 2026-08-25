@@ -3,7 +3,7 @@
 
 data1 = {"ID":123,
 		 "Name": "Salaman",
-		 "Job": "Student",
+		 "Job": "Writer",
 		 "Status": "None"
 		}
 print("Data 1")
@@ -46,7 +46,7 @@ print("\n")
 
 # Change Values 
 print('Change Values :')
-newData["Name"] = "Semir Khan"
+newData["Name"] = "Cowboy"
 print(newData)
 print("\n")
 
