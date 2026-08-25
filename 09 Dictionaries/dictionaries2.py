@@ -3,7 +3,7 @@
 
 data1 = {"ID":123,
 		 "Name": "Salaman",
-		 "Job": "Student",
+		 "Job": "Writer",
 		 "Status Member": "None"
 		}
 
