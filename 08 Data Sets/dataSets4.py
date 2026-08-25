@@ -2,13 +2,13 @@
 superheroes = set()
 
 # Insert/Add Data to Empty Set
-superheroes.add("A")
-superheroes.add("b")
+superheroes.add("Relax")
+superheroes.add("Enjoy")
 superheroes.add(",")
 superheroes.add(10)
 superheroes.add("&")
 superheroes.add(1)
-superheroes.add("c")
+superheroes.add("Pretty")
 
 print(superheroes)
 
