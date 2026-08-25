@@ -1,6 +1,6 @@
 # Class
 class String:
-	a = "abcde"
+	a = "Silence Is A Power"
 
 # Object
 string = String
