@@ -10,7 +10,7 @@ def Teacher(name,lesson):
 	print('Name   : ', name)
 	print('Lesson : ', lesson)
 
-Teacher(name='Beast',lesson='Read and Write')
+Teacher(name='Cowboy',lesson='Read and Write')
 print('\n')
 Teacher(lesson='Cooking', name='Kripik Khan')
 print('\n')
