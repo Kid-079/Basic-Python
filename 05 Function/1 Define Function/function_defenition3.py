@@ -1,6 +1,6 @@
 def connection_Check():
-	A = 'A'
-	if A == 'A':
+	A = 'Relax'
+	if A == 'Relax':
 		print('Condition True')
 connection_Check()
 
