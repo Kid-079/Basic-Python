@@ -1,6 +1,7 @@
 # Logic Operator List and String
 
-String = "Kriuk Kriuk"
+String = "Cowboy"
+#String = "Kriuk Kriuk"
 
 if 'r' in String:
 	print("Presence")
