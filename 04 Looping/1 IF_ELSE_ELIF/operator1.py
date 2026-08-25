@@ -7,5 +7,5 @@ string = "SPIRIT"
 
 if string in Data:
 	print('"string --> ', letter, 'Identified"')
-if not letter in Data:
+if not string in Data:
 	print('"string --> ', letter, 'Not Identified"')
