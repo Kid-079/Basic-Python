@@ -1,5 +1,5 @@
 # Nested Loop
-String = ['Abc','ABC']
+String = ['Relax','ENJOY','pretty','Struggle','Spirit']
 Char = ['A','B','C','D','E']
 Number = [1,2,3,4,5,6]
 
