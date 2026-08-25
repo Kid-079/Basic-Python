@@ -1,5 +1,5 @@
 # List
-Data = 'Cowboy'
+Data = 'Beast'
 #Data = 'Crispy'
 
 for i in Data:
