@@ -1,17 +1,17 @@
 def string(name):
-	print("Good Morning " + name)
+	print("Product Name --> " + name)
 
 product1 = {
-	"name" : "A",
+	"name" : "Rambutan",
 	"value" : 1000
 }
 
 product2 = {
-	"name" : "B",
+	"name" : "Sawo",
 	"value" : 2000
 }
 
 product3 = {
-	"name" : "C",
+	"name" : "Salak",
 	"value" : 3000
 }
