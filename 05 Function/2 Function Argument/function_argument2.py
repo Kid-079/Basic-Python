@@ -10,11 +10,11 @@ def Teacher(name,lesson):
 	print('Name   : ', name)
 	print('Lesson : ', lesson)
 
-Teacher(name='Beast',lesson='1')
+Teacher(name='Falcon',lesson='Read And Write')
 print('\n')
-Teacher(lesson='2', name='Fairy')
+Teacher(lesson='Mechanic', name='Knight')
 print('\n')
-Teacher('Sports','C') # Wrong Example
+Teacher('Sports','Cowboy') # Wrong Example
 print('\n')
 
 # Function use Default Argumen
