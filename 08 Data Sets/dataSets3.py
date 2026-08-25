@@ -7,7 +7,7 @@ superheroes = set()
 superheroes.add("Kamen Rider")
 superheroes.add("Ultramang")
 superheroes.add("Supermen")
-superheroes.add(123)
+superheroes.add(12345)
 
 print(superheroes)
 print(sorted(superheroes)) # sorted --> sequence data
