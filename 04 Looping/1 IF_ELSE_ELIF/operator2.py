@@ -1,9 +1,11 @@
 # Logic Operator List and String
 
-Data = ["A", "B", "C", "D", "E"]
-letter = "F"
+Data = ["Relax", "enjoy", "GREAT", "Struggle", "pretty"]
+string = "SPIRIT"
+#Data = ["A", "B", "C", "D", "E"]
+#string = "F"
 
-if letter in Data:
-	print('letter', letter, 'Identified"')
-if not letter in Data:
-	print('"letter', letter, 'Not Identified"')
+if string in Data:
+	print('"string --> ', letter, 'Identified"')
+if not string in Data:
+	print('"string --> ', letter, 'Not Identified"')
