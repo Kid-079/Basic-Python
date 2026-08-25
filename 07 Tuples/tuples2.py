@@ -1,20 +1,22 @@
 # Access Tuple
-data = ("A","B","C","D","E")
+data = ("Enjoy","RELAX","Mistake","Pretty","Proud")
 print(data[1])
 print(data[-1])
 
 # Change Tuple
-data = ("A","B","C","D","E")
+data = ("Enjoy","RELAX","Mistake","Pretty","Proud")
 changeData = list(data)
-changeData[1] = "Abc"
+changeData[1] = "Great"
 data = tuple(changeData)
 
 print(data)
 
 # Unpack Tuple
-data = ("Abc","ABC","abc")
-(A,B,C) = data
+data = ("Enjoy","RELAX","Mistake","Pretty","Proud")
+(A,B,C,D,E) = data
 
 print(A)
 print(B)
 print(C)
+print(D)
+print(E)
