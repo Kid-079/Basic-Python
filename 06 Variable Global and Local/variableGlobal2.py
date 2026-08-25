@@ -14,8 +14,8 @@ def stringText2(text,writer):
 	string2 = writer
 
 #1
-# stringText1('A')
-stringText2('A','B')
+# stringText1('Relax')
+stringText2('Great','Enjoy')
 
 #2
 print(string1)
