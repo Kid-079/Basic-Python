@@ -1,5 +1,5 @@
 product = {
-	"name" : "A",
+	"name" : "Beast",
 	"value" : 1000
 }
 
