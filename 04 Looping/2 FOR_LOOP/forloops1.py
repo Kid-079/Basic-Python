@@ -1,6 +1,7 @@
 # List
-Data = ['A', 'B', 'C', 'D', 'E']
+Data = ['RELAX', 'Struggle', 'Pretty', 'Enjoy', 'Spirit']
+#Data = ['A', 'B', 'C', 'D', 'E']
 
-for letter in Data:
-	# print(letter)
-	print(len(letter))
+for string in Data:
+	# print(string)
+	print(len(string))
