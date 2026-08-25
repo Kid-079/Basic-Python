@@ -2,7 +2,7 @@
 def Student(name):
 	print('Student Name : ', name)
 
-Student('Semir Khan')
+Student('Fairy')
 print('\n')
 
 # Keywords Argument
@@ -12,9 +12,9 @@ def Teacher(name,lesson):
 
 Teacher(name='Cowboy',lesson='Read and Write')
 print('\n')
-Teacher(lesson='Cooking', name='Kripik Khan')
+Teacher(lesson='Cooking', name='Falcon')
 print('\n')
-Teacher('Read and Write','Suraj') # Wrong Example
+Teacher('Read and Write','Knight') # Wrong Example
 print('\n')
 
 # Function use Default Argumen
