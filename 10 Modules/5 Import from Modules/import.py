@@ -1,5 +1,5 @@
 import data
 from data import product1
 
-data.string("Rambutan")
+data.string("A")
 print(product1["name"])
