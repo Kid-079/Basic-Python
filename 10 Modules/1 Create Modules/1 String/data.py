@@ -1,6 +1,6 @@
-string = "Abcde"
+string = "Hard Work, Stay Humble"
 
 def check_data():
-	print("ABCDE")
+	print("SILENCE IS A POWER")
 
-print("Data Modules")
+print("Keep Calm And Relax")
