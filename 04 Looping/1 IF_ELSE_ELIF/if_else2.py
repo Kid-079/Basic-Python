@@ -1,7 +1,8 @@
 # Logic Operator List and String
 
-String = "Kriuk Kriuk"
-Char = "E" 
+String = "Cowboy"
+#String = "Kriuk Kriuk"
+Char = "Z" 
 
 if Char in String:
 	print("Presence", Char, "in", String)
