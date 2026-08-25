@@ -11,7 +11,7 @@ r+ = Write and Read Mode
 # Appending Mode
 file3 = open("TEXT.txt",'a')
 
-file3.write("\nThis is Text 5")
+file3.write("\nEven The Smallest Things Can Achive The Greatest Goal")
 
 file3.close()
 
