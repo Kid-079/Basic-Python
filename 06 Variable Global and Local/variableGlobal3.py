@@ -10,13 +10,13 @@ def stringText1(newText):
 	print('TEXT --> ',string1)
 
 def stringText2(text,writer):
-	global string
+	global string2
 	string1 = text
 	string2 = writer
 
 #1
-stringText1('A')
-stringText2('A','B')
+stringText1('Relax')
+stringText2('Great','Enjoy')
 
 #2
 print(string1,string2)
