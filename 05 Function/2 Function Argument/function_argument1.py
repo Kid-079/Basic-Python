@@ -2,7 +2,7 @@
 def Student(name):
 	print('Student Name : ', name)
 
-Student('Fairy')
+Student('Cowboy')
 print('\n')
 
 # Keywords Argument
@@ -10,7 +10,7 @@ def Teacher(name,lesson):
 	print('Name   : ', name)
 	print('Lesson : ', lesson)
 
-Teacher(name='Cowboy',lesson='Read and Write')
+Teacher(name='Fairy',lesson='Read and Write')
 print('\n')
 Teacher(lesson='Cooking', name='Falcon')
 print('\n')
