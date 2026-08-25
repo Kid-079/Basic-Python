@@ -28,7 +28,7 @@ D = Product(0123, "Product 4")
 print(Product.total_value)
 
 # .. ( 3 )
-A.name = "ABCDE" 
-B.name = "abcde" 
+A.name = "RAMBUTAN" 
+B.name = "salak" 
 print(A.name)
 print(B.name)
