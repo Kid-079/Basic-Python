@@ -46,7 +46,7 @@ print("\n")
 
 # Change Values 
 print('Change Values :')
-newData["Name"] = "Cowboy"
+newData["Name"] = "Semir Khan"
 print(newData)
 print("\n")
 
