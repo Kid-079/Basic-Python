@@ -10,9 +10,9 @@ def Teacher(name,lesson):
 	print('Name   : ', name)
 	print('Lesson : ', lesson)
 
-Teacher(name='A',lesson='1')
+Teacher(name='Beast',lesson='1')
 print('\n')
-Teacher(lesson='2', name='B')
+Teacher(lesson='2', name='Fairy')
 print('\n')
 Teacher('Sports','C') # Wrong Example
 print('\n')
