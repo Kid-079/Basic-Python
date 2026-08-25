@@ -1,7 +1,7 @@
 # Logic Operator List and String
 
 Data = ["Relax", "enjoy", "GREAT", "Struggle", "pretty"]
-string = "SPIRIT"
+string = "struggle"
 #Data = ["A", "B", "C", "D", "E"]
 #string = "F"
 
