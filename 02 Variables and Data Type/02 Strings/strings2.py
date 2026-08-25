@@ -1,5 +1,7 @@
-string1 = "Kriuk Kriuk"
-string2 = "Crispy"
+string1 = "Beast"
+string2 = "Cowboy"
+#string1 = "Kriuk Kriuk"
+#string2 = "Crispy"
 
 a = string1[0]
 b = string1[0:5]  # 0:5   --> indeks 0 - indeks 5
