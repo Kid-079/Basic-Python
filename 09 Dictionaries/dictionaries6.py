@@ -5,7 +5,7 @@ data = {
 			"1" : {
 				"id": 123,
 				#"name" : "Salaman"
-				"name" : "Knight"
+				"name" : "Stronger"
 			},
 
 			"2" : {
