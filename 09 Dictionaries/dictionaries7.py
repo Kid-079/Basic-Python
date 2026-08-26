@@ -4,7 +4,7 @@
 A = {
 		"id": 123,
 		#"name" : "Salaman"
-		"name" : "Knight"
+		"name" : "Stronger"
 	}
 
 B = {
