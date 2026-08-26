@@ -4,17 +4,20 @@
 data = {
 			"1" : {
 				"id": 123,
-				"name" : "Salaman"
+				#"name" : "Salaman"
+				"name" : "Knight"
 			},
 
 			"2" : {
 				"id": 456,
-				"name": "Paparoti"
+				#"name": "Paparoti"
+				"name": "Cowboy"
 			},
 
 			"3" : {
 				"id": 789,
-				"": "Semir Khan"
+				#"name": "Semir Khan"
+				"name": "Beast"
 			}
 		}
 
