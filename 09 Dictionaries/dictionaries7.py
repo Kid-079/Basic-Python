@@ -3,17 +3,20 @@
 
 A = {
 		"id": 123,
-		"name" : "Salaman"
+		#"name" : "Salaman"
+		"name" : "Knight"
 	}
 
 B = {
 		"id": 456,
-		"name": "Paparoti"
+		#"name": "Paparoti"
+		"name": "Cowboy"
 	}
 
 C = {
 		"id": 789,
-		"name": "Semir Khan"
+		#"name": "Semir Khan"
+		"name": "Beast"
 	}
 
 data = {
