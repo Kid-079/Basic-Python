@@ -2,7 +2,8 @@
 # data = {key:value,key:value} <- Key -> Keyword
 
 data1 = {"ID":123,
-		 "Name": "Salaman",
+		#"Name": "Salaman",
+		 "Name": "Knight",
 		 "Job": "Writer",
 		 "Status": "None"
 		}
@@ -16,7 +17,8 @@ print(data1.items())
 print("\n")
 
 data2 = {"ID":456,
-		 "Name": "Paparoti",
+		 #"Name": "Paparoti",
+		 "Name": "Cowboy",
 		 "Job": "Singer",
 		 "Status": "None"
 		}
@@ -46,7 +48,8 @@ print("\n")
 
 # Change Values 
 print('Change Values :')
-newData["Name"] = "Semir Khan"
+newData["Name"] = "Beast"
+#newData["Name"] = "Semir Khan"
 print(newData)
 print("\n")
 
